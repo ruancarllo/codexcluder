@@ -1,0 +1,6 @@
+name: codexcluder
+description: A command-line program to hide .gitignore files in vscode
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
